@@ -1130,11 +1130,11 @@ abline(h=0, lwd=0.5, col="green")
 
 ![](README_files/figure-html/unnamed-chunk-22-1.png) 
 
-__Figure 9: The graph shows the degree to which the male sex ration is different to the 2013 publication (represented by 0), including the confidence interval of the point estimate of the late reports.__
+__Figure 9: The graph shows the degree to which the male sex ratio is different to the 2013 publication (represented by 0), including the confidence interval of the point estimate of the late reports.__
 
 The big point that I would make about the graph is that the further back in time the records go the more variation between late records and existing records there is, and this can be coupled with that from 2003 to 2007 late registrations of births went from being the majority of recorded births to a fairly stable minority (see Figure 1: Birth registrations by status of registration, South Africa: 1994–2014, http://www.statssa.gov.za/publications/P0305/P03052014.pdf). For this combination of increasing variation depending on the time, and the increase proportion of recorded births made from late births, my personal response is to be reluctant to trust data prior to 2007 when the late registration rate stabilised. Though, empirically, the results from this data seem fairly stable from 2005.
 
-More than the increasing variation, I will note there seems to be something wrong with the 1995 data that should be investigated further if people were to use it for anything- there is an unusual similarity in the male sex ration as of the 2013 data set, and unusual variation in the late entries for that period compared to the earlier.
+More than the increasing variation, I will note there seems to be something wrong with the 1995 data that should be investigated further if people were to use it for anything- there is an unusual similarity in the male sex ratio as of the 2013 data set, and unusual variation in the late entries for that period compared to the earlier.
 
 
 
